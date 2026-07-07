@@ -1,0 +1,38 @@
+#main-header{
+    text-align: center;
+    background-color: grey;
+}
+#head-h1{
+    padding:5px;
+}
+#main{
+    background-color: grey;
+    width: 350px;
+    height: 322px;
+    justify-self: center;
+    
+    
+}
+#input-text{
+    background-color:white;
+    width: 98.5%;
+    height: 75px;
+} 
+#whole{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.button{
+    width: 60px;
+    height: 60px;
+}
+.button1{
+    width: 40% ;
+    height: 60px;
+}
+#zero-div{
+    display: flex;
+    justify-content: center;
+
+}
